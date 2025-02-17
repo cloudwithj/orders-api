@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://j:LNj7i30KUfcYqGR5@cloudwithj-cluster.0bstt.mongodb.net/ordersDB?retryWrites=true&w=majority&appName=cloudwithj-cluster
